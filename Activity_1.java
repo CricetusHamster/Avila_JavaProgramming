@@ -19,6 +19,7 @@ public class Activity_1 {
         System.out.println("================================================");
         System.out.println();
         System.out.println("Name             : " + fullName);
+        System.out.println("Nickname         : " + nickname);
         System.out.println("Age              : " + age);
         System.out.println("Grade Level      : " + gradeLevel);
         System.out.println("Section          : " + section);
