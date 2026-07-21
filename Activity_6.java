@@ -1,4 +1,4 @@
-public class Activity_2 {
+public class Activity_6 {
     public static void main(String[] args) {
         // Given Data
         String customerName = "Emman";
