@@ -35,7 +35,7 @@ public class Activity_9 {
             {
                 System.out.println("Weekend!");
             }
-
+            
             else
             {
                 System.out.println("ermm.... watdesigma");
