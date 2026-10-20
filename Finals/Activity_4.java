@@ -36,5 +36,6 @@ public class Activity_4 {
         // Average Score
         double average = (double) total / scores.length;
         System.out.println("Average Score: " + average);
+        
     }
 }
